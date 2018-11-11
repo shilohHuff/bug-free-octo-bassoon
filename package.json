@@ -1,23 +1,24 @@
 {
-  "name": "practice-react-app",
-  "version": "0.1.0",
-  "private": true,
-  "dependencies": {
-    "babylon": "^6.18.0",
-    "enzyme": "^3.7.0",
-    "enzyme-adapter-react-16": "^1.7.0",
-    "jest-dom": "^2.1.1",
-    "react": "^16.4.2",
-    "react-dom": "^16.4.2",
-    "react-redux": "^5.1.0",
-    "react-scripts": "1.1.5",
-    "react-testing-library": "^5.2.3",
-    "redux": "^4.0.1"
-  },
-  "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test --env=jsdom",
-    "eject": "react-scripts eject"
-  }
+    "name": "practice-react-app",
+    "version": "0.1.0",
+    "private": true,
+    "dependencies": {
+        "babylon": "^6.18.0",
+        "enzyme": "^3.7.0",
+        "enzyme-adapter-react-16": "^1.7.0",
+        "jest-dom": "^2.1.1",
+        "react": "^16.4.2",
+        "react-dom": "^16.4.2",
+        "react-redux": "^5.1.0",
+        "react-scripts": "1.1.5",
+        "react-testing-library": "^5.2.3",
+        "redux": "^4.0.1",
+        "redux-devtools-extension": "^2.13.5"
+    },
+    "scripts": {
+        "start": "react-scripts start",
+        "build": "react-scripts build",
+        "test": "react-scripts test --env=jsdom",
+        "eject": "react-scripts eject"
+    }
 }
